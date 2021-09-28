@@ -7,5 +7,6 @@
 5. Swagger UI
 6. Nodemon
 7. MVC Architecture
+8. Docker
 
 last updated 28/09/2021
